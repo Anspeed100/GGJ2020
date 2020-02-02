@@ -1,0 +1,638 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Pillar_50x500.uasset" 2
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Actors/PillarBlock.uasset" 3
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 4
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 5
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 6
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 7
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 8
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 9
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 10
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 11
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 12
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 13
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 14
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 15
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/FirstPersonOverview.uasset" 16
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 17
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 18
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_400x300.uasset" 19
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_500x500.uasset" 20
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 21
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 22
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Collapse01.uasset" 23
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Collapse02.uasset" 24
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Explosion01.uasset" 25
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Explosion02.uasset" 26
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Fire01.uasset" 27
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Fire_Sparks01.uasset" 28
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Light01.uasset" 29
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Light01_Cue.uasset" 30
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Light02.uasset" 31
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Light02_Cue.uasset" 32
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Smoke01.uasset" 33
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Starter_Birds01.uasset" 34
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Starter_Music01.uasset" 35
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Starter_Wind05.uasset" 36
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Starter_Wind06.uasset" 37
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Steam01.uasset" 38
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Explosion_Cue.uasset" 39
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Burst_M.uasset" 40
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_Burst.uasset" 41
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 42
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 43
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 45
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 46
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 47
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 48
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 49
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/P_Explosion.uasset" 50
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 51
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 52
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 53
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Bush_D.uasset" 54
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Bush_N.uasset" 55
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Bush.uasset" 56
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Bush.uasset" 57
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Chair_M.uasset" 58
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Chair_N.uasset" 59
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Chair.uasset" 60
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Couch.uasset" 61
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Glass.uasset" 62
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Door_M.uasset" 63
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Door_N.uasset" 64
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Door.uasset" 65
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Door.uasset" 66
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 67
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 68
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 69
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 70
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 71
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 72
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_RockMesh_M.uasset" 73
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_RockMesh_N.uasset" 74
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Rock.uasset" 75
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Rock.uasset" 76
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Shelf_M.uasset" 77
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Shelf_N.uasset" 78
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Shelf.uasset" 79
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Shelf.uasset" 80
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Basic_Floor.uasset" 81
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Stairs.uasset" 82
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Cone.uasset" 83
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 84
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 85
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Pipe.uasset" 86
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 87
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 88
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Plane.uasset" 89
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Torus.uasset" 90
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Trim.uasset" 91
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 92
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 93
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 94
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Tube.uasset" 95
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 96
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 97
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 98
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 99
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 100
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 101
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 102
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 103
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPersonRun.uasset" 104
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 105
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 106
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 107
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 108
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 109
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 110
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 111
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 112
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 113
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 114
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 115
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 116
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 117
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 118
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 119
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 120
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 121
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 122
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 123
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 124
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 125
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 126
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 127
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/UMG/MainMenu.uasset" 128
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 129
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 130
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/UMG/ShowMovementControls.uasset" 131
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/UMG/ShowControls.uasset" 132
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 134
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 135
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 136
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 137
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 138
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 139
+"../../../Engine/Content/BasicShapes/Cone.uasset" 140
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 141
+"../../../Engine/Content/BasicShapes/Plane.uasset" 142
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 143
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 144
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 145
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 146
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 147
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 148
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 149
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 150
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 151
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 152
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 153
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 154
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 155
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 156
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 159
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 160
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 161
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 162
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 163
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 164
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 165
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 166
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 167
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 168
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 169
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 170
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 171
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 172
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 173
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 174
+"../../../Engine/Content/EditorResources/S_Note.uasset" 175
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 176
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 177
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 178
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 179
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 180
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 181
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 182
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 183
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 184
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 185
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 186
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 187
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 188
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 195
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 197
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 200
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 203
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 204
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 205
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 206
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 207
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 208
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 209
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 210
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 211
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 212
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 213
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 218
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 221
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 225
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 226
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 227
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 228
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 229
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 230
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 231
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 233
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 234
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 235
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 236
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 237
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 240
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 241
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 242
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 243
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 244
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 245
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 246
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 247
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 248
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 249
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 250
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 251
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 252
+"../../../Engine/Content/EngineSounds/Master.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 255
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 256
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 257
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 258
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 276
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 277
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 278
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 279
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 280
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 281
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 282
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 283
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 284
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 285
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 286
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 287
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 288
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 289
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 290
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 291
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 292
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 293
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 294
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 295
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 296
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMasterUV.uasset" 297
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 298
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 301
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 302
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 303
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 304
+"../../../Engine/Content/EngineResources/Black.uasset" 305
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMaster.uasset" 306
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 307
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 308
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 309
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 310
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 311
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 312
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 313
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 314
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 315
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 316
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 317
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 318
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 320
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 321
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 322
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 323
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 324
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 326
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 327
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 328
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 329
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 330
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 331
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/BrushedMetal.uasset" 332
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Chrome.uasset" 333
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 335
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 336
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 337
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 339
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 340
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 341
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 342
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 343
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 344
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 345
+"../../../Engine/Content/EditorShapes/Textures/T_ShapeNormal.uasset" 346
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 348
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 351
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 352
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 353
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/HoveredFaceMaterial.uasset" 354
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/HoveredGeometryMaterial.uasset" 355
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireWorldOffset.uasset" 356
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/OverlayLineMaterial.uasset" 357
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/OverlayPointMaterial.uasset" 358
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireMaterial.uasset" 359
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/StaticMeshEditorAssetContainer.uasset" 360
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireMaterialBaseCage.uasset" 361
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 362
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 363
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Meshes/BaseMaterial.uasset" 364
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 365
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 366
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 367
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 368
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 369
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 370
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 371
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 372
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 373
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 374
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 375
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 376
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 377
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 378
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 379
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 380
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 381
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 382
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 383
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 384
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 385
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 386
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 387
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 388
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 389
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 390
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 391
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 392
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 393
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 394
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 395
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 396
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 397
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 398
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 399
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 400
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 401
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 402
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 403
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 404
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_MacroVariation.uasset" 405
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 406
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 407
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 408
+"../../../Engine/Content/BasicShapes/Cube.uasset" 409
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Actors/ReverseActor.uasset" 410
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 411
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 412
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 413
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 414
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 415
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 416
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Geometry/Meshes/CubeMaterial.uasset" 417
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Geometry/Meshes/1M_Cube.uasset" 418
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Frame_M.uasset" 419
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Frame_N.uasset" 420
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Frame.uasset" 421
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_PillarFrame.uasset" 422
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/UMG/ShowJumpControls.uasset" 423
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/UMG/ShowRepairAbilityControls.uasset" 424
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 425
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Floor_400x400.uasset" 426
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Actors/Floor.uasset" 427
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_400x400.uasset" 428
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Actors/Wall.uasset" 429
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Lamp_M.uasset" 430
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Lamp_N.uasset" 431
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Lamp.uasset" 432
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 433
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 434
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Maps/StarterCoffeeLevel_BuiltData.uasset" 435
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 436
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/FirstPersonBP/Maps/StarterCoffeeLevel.umap" 437
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 438
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 439
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 440
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 441
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 442
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 443
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 444
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 445
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 446
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 447
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 448
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 449
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 450
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_AssetPlatform.uasset" 451
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 452
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 453
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 454
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 455
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 456
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 457
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 458
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 459
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Maps/Advanced_Lighting.umap" 460
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 461
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 462
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 463
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 464
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 465
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 466
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Metal_Copper.uasset" 467
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Statue_M.uasset" 468
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Statue_N.uasset" 469
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 470
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 471
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Chair.uasset" 472
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_Statue.uasset" 473
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Statue.uasset" 474
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_TableRound_M.uasset" 475
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_TableRound_N.uasset" 476
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/Materials/M_TableRound.uasset" 477
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_TableRound.uasset" 478
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Maps/Minimal_Default.umap" 479
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Fire01_Cue.uasset" 480
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 481
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 482
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 483
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Water_N.uasset" 484
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 485
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 486
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/P_Fire.uasset" 487
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 488
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Smoke01_Cue.uasset" 489
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/P_Smoke.uasset" 490
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 491
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 492
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Spark_Core.uasset" 493
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_Spark.uasset" 494
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/P_Sparks.uasset" 495
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 496
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Steam01_Cue.uasset" 497
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/P_Steam_Lit.uasset" 498
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 499
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 500
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 501
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 502
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 503
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 504
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 505
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 506
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 507
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 508
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 509
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 510
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 511
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 512
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 513
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 514
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 515
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 516
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 517
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 518
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 519
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 520
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 521
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 522
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 523
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 524
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 525
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 526
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 527
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 528
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 529
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 530
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 531
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 532
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 533
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Gradinet_01.uasset" 534
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 535
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 536
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 537
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 538
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 539
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 540
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 541
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 542
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 543
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 544
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 545
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 546
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 547
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 548
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 549
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 550
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 551
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 552
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 553
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 554
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 555
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 556
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Ground_Grass.uasset" 557
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 558
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 559
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 560
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 561
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 562
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Ground_Moss.uasset" 563
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 564
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 565
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Metal_Gold.uasset" 566
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 567
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Metal_Rust.uasset" 568
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 569
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 570
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Metal_Steel.uasset" 571
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 572
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 573
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 574
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 575
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 576
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 577
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 578
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 579
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Rock_Slate.uasset" 580
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 581
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 582
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 583
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 584
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 585
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 586
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 587
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 588
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Tech_Panel.uasset" 589
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Water_Lake.uasset" 590
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Water_M.uasset" 591
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Water_Ocean.uasset" 592
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 593
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 594
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 595
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 596
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 597
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 598
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 599
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 600
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Wood_Oak.uasset" 601
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 602
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 603
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Wood_Pine.uasset" 604
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 605
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 606
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 607
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_400x200.uasset" 608
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 609
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 610
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Collapse_Cue.uasset" 611
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 612
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 613
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 614
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 615
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/MaterialSphere.uasset" 616
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_CornerFrame.uasset" 617
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_DoorFrame.uasset" 618
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_GlassWindow.uasset" 619
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_PillarFrame300.uasset" 620
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Props/SM_WindowFrame.uasset" 621
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Cube.uasset" 622
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 623
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Shapes/Shape_Sphere.uasset" 624
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/StarterContent/Maps/StarterMap.umap" 625
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 626
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 627
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/Geometry/Meshes/TemplateFloor.uasset" 628
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPerson/Meshes/RampMaterial.uasset" 629
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 630
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 631
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 632
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 633
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 634
+"C:/Users/Anspeed/Documents/Unreal Projects/GGJ2020/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 635
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 636
+"../../../Engine/Content/Maps/Entry.umap" 637
